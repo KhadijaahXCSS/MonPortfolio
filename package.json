@@ -1,9 +1,10 @@
 {
-  "name": "John_Doe",
+  "name": "KhadijaahXCSS",
   "version": "1.5.0",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "description": "Portfolio website for KhadijaahXCSS",
+  "homepage": "https://khadijaahxcss.github.io",
   "main": "gulpfile.js",
-  "author": "DevCRUD",
+  "author": "KhadijaahXCSS",
   "scripts": {
     "start": "gulp"
   },

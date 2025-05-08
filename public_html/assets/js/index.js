@@ -1,6 +1,6 @@
 /*!
 =========================================================
-* JohnDoe Landing page
+* Khady Landing page
 =========================================================
 
 * Copyright: 2019 DevCRUD (https://devcrud.com)
